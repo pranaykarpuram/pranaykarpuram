@@ -16,7 +16,7 @@ Building AI-native tools, full-stack products, and healthtech systems.
 
 | | |
 |---|---|
-| Portfolio | [pranaykarpuram.com](https://pranaykarpuram.com) _(domain upcoming)_ |
+| Portfolio | [pranaykarpuram.com](https://pranaykarpuram.com)  |
 | LinkedIn | [linkedin.com/in/pranaykarpuram](https://www.linkedin.com/in/pranaykarpuram/) |
 | Email | [tanpranay@gmail.com](mailto:tanpranay@gmail.com) |
 | GitHub | [github.com/pranaykarpuram](https://github.com/pranaykarpuram) |
