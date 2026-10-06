@@ -8,6 +8,8 @@
 ╚══════════════════════════════════════════╝
 ```
 
+![Profile views](https://komarev.com/ghpvc/?username=pranaykarpuram&label=PROFILE%20VIEWS&color=ff6b35&style=flat-square)
+
 **B.S. Computer Science + Bioengineering** · University of Illinois Urbana-Champaign · Expected May 2028
 
 Building AI-native tools, full-stack products, and healthtech systems.
